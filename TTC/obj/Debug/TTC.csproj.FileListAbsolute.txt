@@ -1,0 +1,68 @@
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\TTC.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\TTC.pdb
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\Antlr3.Runtime.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\EntityFramework.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\Newtonsoft.Json.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Net.Http.Formatting.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Http.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Http.WebHost.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Mvc.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Optimization.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Providers.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Razor.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.Deployment.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.Razor.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\WebGrease.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\EntityFramework.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\Newtonsoft.Json.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Net.Http.Formatting.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Http.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Http.WebHost.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Mvc.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.Razor.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.Deployment.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\System.Web.WebPages.Razor.xml
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\obj\Debug\TTC.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\obj\Debug\TTC.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\obj\Debug\TTC.pdb
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\mysql.data.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\mysql.data.entity.dll
+c:\users\joel\documents\visual studio 2012\Projects\TTC\TTC\bin\mysql.web.dll
+D:\src\club-site\TTC\bin\TTC.dll
+D:\src\club-site\TTC\bin\TTC.pdb
+D:\src\club-site\TTC\bin\Antlr3.Runtime.dll
+D:\src\club-site\TTC\bin\EntityFramework.dll
+D:\src\club-site\TTC\bin\Microsoft.Web.Infrastructure.dll
+D:\src\club-site\TTC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\src\club-site\TTC\bin\mysql.data.dll
+D:\src\club-site\TTC\bin\mysql.data.entity.dll
+D:\src\club-site\TTC\bin\mysql.web.dll
+D:\src\club-site\TTC\bin\Newtonsoft.Json.dll
+D:\src\club-site\TTC\bin\System.Net.Http.Formatting.dll
+D:\src\club-site\TTC\bin\System.Web.Http.dll
+D:\src\club-site\TTC\bin\System.Web.Http.WebHost.dll
+D:\src\club-site\TTC\bin\System.Web.Mvc.dll
+D:\src\club-site\TTC\bin\System.Web.Optimization.dll
+D:\src\club-site\TTC\bin\System.Web.Providers.dll
+D:\src\club-site\TTC\bin\System.Web.Razor.dll
+D:\src\club-site\TTC\bin\System.Web.WebPages.Deployment.dll
+D:\src\club-site\TTC\bin\System.Web.WebPages.dll
+D:\src\club-site\TTC\bin\System.Web.WebPages.Razor.dll
+D:\src\club-site\TTC\bin\WebGrease.dll
+D:\src\club-site\TTC\bin\EntityFramework.xml
+D:\src\club-site\TTC\bin\Newtonsoft.Json.xml
+D:\src\club-site\TTC\bin\System.Net.Http.Formatting.xml
+D:\src\club-site\TTC\bin\System.Web.Http.xml
+D:\src\club-site\TTC\bin\System.Web.Http.WebHost.xml
+D:\src\club-site\TTC\bin\System.Web.Mvc.xml
+D:\src\club-site\TTC\bin\System.Web.Razor.xml
+D:\src\club-site\TTC\bin\System.Web.WebPages.xml
+D:\src\club-site\TTC\bin\System.Web.WebPages.Deployment.xml
+D:\src\club-site\TTC\bin\System.Web.WebPages.Razor.xml
+D:\src\club-site\TTC\obj\Debug\TTC.csprojResolveAssemblyReference.cache
+D:\src\club-site\TTC\obj\Debug\TTC.dll
+D:\src\club-site\TTC\obj\Debug\TTC.pdb

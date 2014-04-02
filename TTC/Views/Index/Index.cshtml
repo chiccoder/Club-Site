@@ -1,0 +1,148 @@
+﻿@model TTC.Models.Index.IndexPageModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technology and Tabletop Community</title>
+
+    <meta name="viewport" content="width=device-width" />
+    <script src="@Url.Content("~/Scripts/jquery-1.8.2.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.unobtrusive-ajax.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")" type="text/javascript"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/js.js")"></script>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/Index/index.css")">
+</head>
+<body>
+    <nav class="navBar">
+            <div id="logo">TTC</div>
+            @*<div id="home"><a href="#homebox">Home</a></div>*@
+            <div id="about"><a href="#aboutbox">About</a></div>
+            <div id="join"><a href="#joinbox">Join Us</a></div>
+            @*<div id="calendar"><a href="#calendarbox">Events</a></div>*@
+    </nav>
+
+    <div class="body">
+        
+        <div data-stellar-background-ratio="0.5" class="background" id="formulaDBox"></div>
+        <div class="blankbox blue"> 
+            <p>TTC is a club centered around <br /> Table Top Gaming and Technology</p>
+            Want to know more? Keep scrolling!
+        </div>
+        <div class="background" id="technology"></div>
+        <div class="blankbox blue">
+            <p>“there's a lot more to life than video games, studying, and sleeping”</p>
+            <p class="right"> -james todd</p>
+
+        </div>
+        <div class="background" id="TTR"></div>
+        <div class="blankbox blue">
+             <p>“lifes not a video game - you can't have an extra life or try again”</p>
+            <p class="right">- unknown</p>
+        </div>
+
+        <div class="background" id="binary" ></div>
+         <div class="blankbox blue"> name goes here -> <input type="text"/>
+             <p>“It's supposed to be automatic, but actually you have to push this button.”</p>
+            <p class="right"> ― John Brunner</p>
+         </div>
+        @*<div class="blankbox"></div>*@
+        @*<div id="calendarbox"> I hope to grow up to be a calendar someday. </div>*@
+    </div>
+
+</body>
+</html>
+@*
+	<div id="container">
+		<div id="header">
+			<h1>Technology & Tabletop Club</h1>
+		</div>
+		<div id="contentContainer">
+			<div id="home">
+				<h2>Home</h2>
+				<section>
+				</section>
+			</div>
+			<div id="about">
+				<h2>About</h2>
+				<section>
+				</section>
+			</div>
+			<div id="signUp">
+				<h2>Join Us</h2>
+				<section id="signUpForm">
+					
+ <script type="text/javascript">
+     function ShowResponse(result) {
+         if (result.responseText === "SignedUp!") {
+             $("#fail").hide(200);
+             $("#success").show(200);
+             $("#success").delay(5000);
+             $("#success").hide(300);
+             $("#form0").reset();
+         } else {
+             $("#fail").show(200);
+         }
+     }
+        </script>
+
+        @using (Ajax.BeginForm("CreateUser", new AjaxOptions {OnComplete = "ShowResponse" }))
+        {
+            <div>
+                <label>First Name</label>
+                <input type="text" name="FirstName" required />
+            </div>
+            <div>
+                <label>Last Name</label>
+                <input type="text" name="LastName" required />
+            </div>
+            <div>
+                <label>Email</label>
+               <input name="Email" type="email" required />
+            </div>
+            <div>
+                <label>Student ID</label>
+                <input type="text" name="ID" maxlength="6" required />
+            </div>
+            <div>
+                <label>Phone Number</label>
+                <input type="tel" name="PhoneNumber" required />
+            </div>
+            <div>
+                <span>Shirt?  </span><span style="font-size: 10px;">It'll cost more</span>
+                <div id="ShirtSize" style="display: none; width: 70px;">
+                    <label>Shirt Size</label>
+                    <select id="ShirtSelect" name="ShirtSize">
+                        <option value="0"></option>
+                        <option value="1">XS</option>
+                        <option value="2">S</option>
+                        <option value="3">M</option>
+                        <option value="4">L</option>
+                        <option value="5">XL</option>
+                        <option value="6">XXL</option>
+                    </select>
+                </div>
+                <ul>
+                    <li onclick="$('#ShirtSize').show(); $('li').removeClass('selected'); $(this).addClass('selected');">Yes</li>
+                    <li class="selected" onclick="$('#ShirtSize').hide(); $('#ShirtSelect').val('');  $('li').removeClass('selected'); $(this).addClass('selected');">No</li>
+                </ul>
+            
+            </div>
+            <div style="width: 70px;">
+                <input class="button" type="submit" value="SignUp" />
+            </div>
+        }
+				</section>
+			</div>
+			<div id="calendar">
+				<h2>Calendar</h2>
+				<section>
+				</section>
+			</div>
+		</div>
+		<div id="footer">
+		</div>
+	</div>
+	</body>
+</html>
+*@
